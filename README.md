@@ -1,12 +1,13 @@
 <h1 align="center"> COMPUTE YOURSELF - ECOMMERCE WEB APP </h1>
 
+
 <h4 align="center">A hardware webshop where you can register and order the desired pc parts. The newest PC builder can guide you through the hardware jungle <br><br><br>
 <a href="https://github.com/Eriknpy/Compute-yourself/issues">Report Bug</a>
     ·
     <a href="https://github.com/Eriknpy/Compute-yourself/issues">Request Feature</a></h4>
-< a href="https://github.com/Eriknpy/react-static-web-app">Frontend Deployment</a>
-## Prerequisites
 
+## Prerequisites
+- [Frontend Repository](https://github.com/Eriknpy/react-static-web-app)
 - [SQL Server Management Studio (SSMS)](https://aka.ms/ssmsfullsetup)
 - [.NET 6.0 SDK (v6.0.406) - Windows x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.406-windows-x64-installer)
 - [Node.js 18.14.2](https://nodejs.org/dist/v18.14.2/node-v18.14.2-x64.msi)
