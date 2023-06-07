@@ -4,7 +4,7 @@
 <a href="https://github.com/Eriknpy/Compute-yourself/issues">Report Bug</a>
     ·
     <a href="https://github.com/Eriknpy/Compute-yourself/issues">Request Feature</a></h4>
-    
+< a href="https://github.com/Eriknpy/react-static-web-app">Frontend Deployment</a>
 ## Prerequisites
 
 - [SQL Server Management Studio (SSMS)](https://aka.ms/ssmsfullsetup)
